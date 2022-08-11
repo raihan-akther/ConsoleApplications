@@ -1,7 +1,7 @@
 # ConsoleApplications
 ## step 1
 
-    ```js
+    ```py
         console.log("test string");
     ```
 
